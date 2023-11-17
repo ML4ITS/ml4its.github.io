@@ -2,7 +2,7 @@ baseURL = 'https://ml4its.github.io/'
 languageCode = 'en-us'
 title = 'ML4ITS - Machine Learning for Irregular Time Series'
 theme = 'mainroad'
-publishDir = "public"
+publishDir = "docs"
 
 
 [Params.widgets.social]
