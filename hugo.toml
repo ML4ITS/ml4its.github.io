@@ -14,6 +14,7 @@ theme = 'mainroad'
   copyright = "Massimiliano Ruocco" 
   #post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   post_meta = ["categories", "translations"]
+  mainSections = []
 
 [Params.logo]
   image = "images/logoml4its.png" # Logo image. Path relative to "static"
