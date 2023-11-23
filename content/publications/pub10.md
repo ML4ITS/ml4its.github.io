@@ -1,7 +1,7 @@
 +++
 title = 'Data-Driven Classifiers for Early Meal Detection Using ECG (2023)'
 date = 2023-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["Signal Processing","sensors"]
 
 categories = ["Muhammad A. Cheema", "Pallavi Patil",  "Salman I. Siddiqui", "Pierluigi Salvo Rossi", "Øyvind Stavdahl", "Anders Lyngvi Fougner"] # Lead text

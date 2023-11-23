@@ -1,7 +1,7 @@
 +++
 title = 'VIbCReg: Variance-invariance-better-covariance regularization for self-supervised learning on time series (2021)'
 date = 2021-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["Selfsupervised","timeseries"]
 
 categories = ["Daesoo Lee", "Erlend Aune"] # Lead text

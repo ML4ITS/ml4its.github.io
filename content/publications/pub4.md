@@ -1,7 +1,7 @@
 +++
 title = 'Masked Generative Modeling with Enhanced Sampling Scheme (2023)'
 date = 2023-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["generative","VAE","timeseries", "Synthetic Data"]
 
 #lead = "Daesoo Lee, Erlend Aune, Sara Malacarne" # Lead text

@@ -1,7 +1,7 @@
 +++
 title = 'Vector Quantized Time Series Generation with a Bidirectional Prior Model (2023)'
 date = 2023-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["generative","timeseries", "Synthetic Data"]
 
 categories = ["Daesoo Lee", "Erlend Aune", "Sara Malacarne"] # Lead text

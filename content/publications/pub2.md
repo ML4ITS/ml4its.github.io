@@ -1,7 +1,7 @@
 +++
 title = 'Navigating the Metric Maze: A Taxonomy of Evaluation Metrics for Anomaly Detection in Time Series (2023)'
 date = 2023-11-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["anomaly detection","timeseries"]
 #lead = "Sondre Sørbø, Massimiliano Ruocco" # Lead text
 lead = "Data Mining and Knowledge Discovery"

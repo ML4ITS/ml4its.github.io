@@ -1,7 +1,7 @@
 +++
 title = 'Spatio-Temporal Graph Attention Network for Anomaly Detection in the Telco Domain (2021)'
 date = 2021-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["Timeseries","GNN", "Telco", "Anomaly Detection", "Attention"]
 
 categories = ["Axel Ø. Harstad", "William E. G. Kvaale"] 

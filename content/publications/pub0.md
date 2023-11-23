@@ -1,7 +1,7 @@
 +++
 title = 'Global Transformer Architecture for Indoor Room Temperature Forecasting (2023)'
 date = 2023-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["forecasting","transformer","timeseries"]
 
 #lead = "Alfredo V. Clemente, Alessandro Nocente, Massimiliano Ruocco" # Lead text

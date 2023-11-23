@@ -1,7 +1,7 @@
 +++
 title = 'Massimiliano Ruocco'
 date = 2023-10-15T19:17:52+01:00
-draft = true
+draft = false
 #tags = ["Signal Processing","sensors"]
 
 lead = "Coordinatoor, WP1 Leader" # Lead text

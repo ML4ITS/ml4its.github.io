@@ -1,7 +1,7 @@
 +++
 title = 'About the project'
 date = 2023-11-16T16:24:37+01:00
-draft = true
+draft = false
 sidebar = "right" # Enable sidebar (on the right side) per page
 
 #thumbnail = "images/claudio.jpeg"

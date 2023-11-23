@@ -1,7 +1,7 @@
 +++
 title = 'Deep Representation Learning for Personalised High Granularity Cycling Performance Prediction (2021)'
 date = 2021-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["Timeseries","Contrastive Learning", "Siamese", "Forecasting", "Sport"]
 
 categories = ["Henrik Fauskanger", "Claus Martinsen"] 

@@ -1,7 +1,7 @@
 +++
 title = 'Vnibcreg: Vicreg with neighboring-invariance and better-covariance evaluated on non-stationary seismic signal time series (2022)'
 date = 2022-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["Selfsupervised","timeseries"]
 
 categories = ["Daesoo Lee", "Erlend Aune", "Nadège Langet", "Jo Eidsvik"] 

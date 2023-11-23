@@ -1,7 +1,7 @@
 +++
 title = 'Generative Adversarial Networks for Unsupervised Anomaly Detection in Multivariate Time-Series Telecommunications Data (2021)'
 date = 2021-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["Timeseries","GAN", "Telco", "Anomaly Detection"]
 
 categories = ["Sigurd Nybakk Vang"] 

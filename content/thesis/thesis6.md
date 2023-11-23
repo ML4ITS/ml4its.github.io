@@ -1,7 +1,7 @@
 +++
 title = 'A Deep Learning-Based Method for Regional Wind Power Production Volume Prediction (2020)'
 date = 2020-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["Timeseries","Energy", "Wind", "Forecasting", "CNN"]
 
 categories = ["Erik Liodden"] 

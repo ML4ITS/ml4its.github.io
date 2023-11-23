@@ -1,7 +1,7 @@
 +++
 title = 'Erlend Aune'
 date = 2022-10-15T19:17:52+01:00
-draft = true
+draft = false
 #tags = ["Signal Processing","sensors"]
 
 lead = "WP2 Leader" # Lead text

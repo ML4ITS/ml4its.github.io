@@ -1,7 +1,7 @@
 +++
 title = 'Computer Vision Self-supervised Learning Methods on Time Series (2022)'
 date = 2022-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["Selfsupervised","timeseries"]
 
 categories = ["Daesoo Lee", "Erlend Aune"] # Lead text

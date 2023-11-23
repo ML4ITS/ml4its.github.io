@@ -1,7 +1,7 @@
 +++
 title = 'Explainable Anomaly Detection using Masked Latent Generative Modeling (2023)'
 date = 2023-11-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["generative","timeseries", "Anomaly Detection", "XAI"]
 
 categories = ["Daesoo Lee", "Sara Malacarne", "Erlend Aune"] # Lead text

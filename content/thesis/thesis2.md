@@ -1,7 +1,7 @@
 +++
 title = 'Deep Learning for Assessing Risk of Prostate Cancer (2022)'
 date = 2022-10-15T19:17:52+01:00
-draft = true
+draft = false
 tags = ["Timeseries","Healthcare", "Forecasting"]
 
 categories = ["Elisa Tedde"] # Lead text
