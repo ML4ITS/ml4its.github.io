@@ -43,3 +43,7 @@ theme = 'mainroad'
     name = 'Team'
     pageRef = '/team'
     weight = 4
+[[menu.main]]
+    name = 'Events'
+    pageRef = '/events'
+    weight = 4
