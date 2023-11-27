@@ -8,7 +8,6 @@ theme = 'mainroad'
   # Enable parts of social widget
   github = "ml4its"
   email = "massimiliano.ruocco@sintef.no"
-  email = "erlend.aune@ntnu.no"
 
 [Params]
   description = "ML4ITS website" 
