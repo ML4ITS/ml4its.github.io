@@ -5,8 +5,8 @@ draft = false
 sidebar = "right" # Enable sidebar (on the right side) per page
 
 #thumbnail = "images/claudio.jpeg"
-tags = ["about"]
-lead = "Example lead - highlighted near the title" # Lead text
+#tags = ["about"]
+#lead = "Example lead - highlighted near the title" # Lead text
 widgets = ["taglist","social"]
 description =  "Example article description"
 toc= false # Enable Table of Contents for specific page
