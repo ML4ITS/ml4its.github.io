@@ -2,7 +2,7 @@
 title = 'Circle Attention: Forecasting Network Traffic by Learning Interpretable Spatial Relationships from Intersecting Circles (2023)'
 date = 2023-11-15T19:17:52+01:00
 draft = false
-tags = ["forecasting","transformer","timeseries"]
+tags = ["forecasting","transformer","timeseries", "XAI"]
 #lead = "Espen Haugsdal, Sara Malacarne, Massimiliano Ruocco" # Lead text
 lead = "ECML-PKDD 2023"
 description =  "Example article description"
