@@ -12,8 +12,6 @@ description =  "Example article description"
 toc= false # Enable Table of Contents for specific page
 comments= true # Enable Disqus comments for specific page
 
-
-
 #authorbox= true # Enable authorbox for specific page
 
 +++
