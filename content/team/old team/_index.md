@@ -9,4 +9,3 @@ lead = "Example lead - highlighted near the title" # Lead text
 #widgets = ["taglist","social", "categories"]
 description =  "Example article description"
 +++
-
